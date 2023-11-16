@@ -1,0 +1,6 @@
+[submodule "carepal-be"]
+	path = carepal-be
+	url = https://github.com/Gigih3-0-FS-SDG-3-B/carepal-be.git
+[submodule "carepal-fe"]
+	path = carepal-fe
+	url = https://github.com/Gigih3-0-FS-SDG-3-B/carepal-fe.git
